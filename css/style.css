@@ -11,13 +11,13 @@ body {
     width: 12px;
 }
 ::-webkit-scrollbar-thumb {
-    background: #df4ec8;
+    background: #6e72fc;
     border-radius: 10px;
 }
 .letter {
     width: 100%;
     height: 100%;
-    color: #df4ec8;
+    color: #6e72fc;
     font-size: 20px;
     display: flex;
     flex-direction: column;
@@ -50,9 +50,9 @@ body {
     width: 60%;
     max-width: 200px;
     margin: auto;
-    padding: 10px 0px ;
+    padding: 12px 0px ;
     border-radius: 20px;
-    border: 1px solid #df4ec8;
+
     background-color: #6e72fc;
     background-image: linear-gradient(315deg, #6e72fc 0%, #ad1deb 74%);
     color: white;
@@ -61,8 +61,8 @@ body {
 }
 .letter-btn-box button:hover {
     background: white;
-    color: #df4ec8;
-    border: 1px solid #df4ec8;
+    color: #6e72fc;
+    border: 1px solid #6e72fc;
 }
 @keyframes scaleup {
     0% {
@@ -115,7 +115,7 @@ body {
     text-align: center;
 }
 #sec-three {
-    color: #df4ec8;
+    color: #6e72fc;
     padding: 80px 0px;
 }
 @media only screen and (min-width: 390px) {
