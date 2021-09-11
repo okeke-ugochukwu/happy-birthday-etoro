@@ -11,13 +11,13 @@ body {
     width: 12px;
 }
 ::-webkit-scrollbar-thumb {
-    background: #337208;
+    background: #FF69B4;
     border-radius: 10px;
 }
 .letter {
     width: 100%;
     height: 100%;
-    color: #337208;
+    color: #FF69B4;
     font-size: 20px;
     display: flex;
     flex-direction: column;
@@ -52,16 +52,16 @@ body {
     margin: auto;
     padding: 10px 0px ;
     border-radius: 20px;
-    border: 1px solid #337208;
-    background: #337208;
+    border: 1px solid #FF69B4;
+    background: #FF69B4;
     color: white;
     font-size: 18px;
     animation: .5s scaleup .7s linear both;
 }
 .letter-btn-box button:hover {
     background: white;
-    color: #337208;
-    border: 1px solid #337208;
+    color: #FF69B4;
+    border: 1px solid #FF69B4;
 }
 @keyframes scaleup {
     0% {
@@ -113,7 +113,7 @@ body {
     text-align: center;
 }
 #sec-three {
-    color: #337208;
+    color: #FF69B4;
     padding: 80px 0px;
 }
 @media only screen and (min-width: 390px) {
