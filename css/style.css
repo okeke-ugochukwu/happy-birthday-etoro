@@ -17,7 +17,7 @@ body {
 .letter {
     width: 100%;
     height: 100%;
-    color: #6e72fc;
+    color: #ad1deb;
     font-size: 20px;
     display: flex;
     flex-direction: column;
@@ -52,7 +52,7 @@ body {
     margin: auto;
     padding: 12px 0px ;
     border-radius: 20px;
-
+    border: none;
     background-color: #6e72fc;
     background-image: linear-gradient(315deg, #6e72fc 0%, #ad1deb 74%);
     color: white;
@@ -61,8 +61,8 @@ body {
 }
 .letter-btn-box button:hover {
     background: white;
-    color: #6e72fc;
-    border: 1px solid #6e72fc;
+    color: #ad1deb;
+    border: 1px solid #ad1deb;
 }
 @keyframes scaleup {
     0% {
